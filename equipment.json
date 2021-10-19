@@ -7,7 +7,7 @@
         "ManufacturedBy": "Zafran Pharmaceutical Ltd.",
         "price": "1.99",
         "equipImage": "https://images.unsplash.com/photo-1585417238564-fcdf0b69535f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z2xvdmVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "handling biohazardous material, as an alternative to latex in case of allergic reaction, and for a low cost, economy exam glove",
+        "use": "handling biohazardous material, as an alternative to latex in case of allergic reaction, and for a low cost, economy exam glove"
     },
     {
         "name": "Vinyl Exam Gloves",
@@ -17,7 +17,7 @@
         "ManufacturedBy": "Ahmurus Pharma",
         "price": "0.99",
         "equipImage": "https://images.unsplash.com/photo-1611689102033-7f9e0a8eb851?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bmVlZGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "Syringes and needles are sterile devices used to inject solutions into or withdraw secretions from the body.",
+        "use": "Syringes and needles are sterile devices used to inject solutions into or withdraw secretions from the body."
     },
     {
         "name": "Portable Oxygen Concentrators",
@@ -27,7 +27,7 @@
         "ManufacturedBy": "Ahmurus Pharma",
         "price": "0.99",
         "equipImage": "https://images.unsplash.com/photo-1532288922150-c04819be02b4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHB1bHNlJTIwb3hpbWV0ZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "Supplemental oxygen may be prescripbed long-term for patients with lung disease or temporarily as patient is recovering from a lung condition. Here is a list of common conditions that may require oxygen therapy like COPD, Weak Lungs, Congestive Heart Failure, Pneumonia, Lung Cancer, Reduced Lung Function Due to Illness, Including COVID-19, Cystic Fibrosis",
+        "use": "Supplemental oxygen may be prescripbed long-term for patients with lung disease or temporarily as patient is recovering from a lung condition. Here is a list of common conditions that may require oxygen therapy like COPD, Weak Lungs, Congestive Heart Failure, Pneumonia, Lung Cancer, Reduced Lung Function Due to Illness, Including COVID-19, Cystic Fibrosis"
     },
     {
         "name": "Enteral Feeding Tubes",
@@ -37,7 +37,7 @@
         "ManufacturedBy": "Calcus Pharma",
         "price": "1.99",
         "equipImage": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM0fHxtZWRpY2FsJTIwdHViZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "For patients who are Malnourished or who cannot or will not Orally Ingest Adequate Food",
+        "use": "For patients who are Malnourished or who cannot or will not Orally Ingest Adequate Food"
     },
     {
         "name": "Face mask",
@@ -47,7 +47,7 @@
         "ManufacturedBy": "Delta Pharmaceutical Ltd.",
         "price": "0.25",
         "equipImage": "https://images.unsplash.com/photo-1603285989755-f74b36039903?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN1cmdpY2FsJTIwbWFza3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "To get prevent from dust, virus, bacteria",
+        "use": "To get prevent from dust, virus, bacteria"
     },
     {
         "name": "Lite Blood Glucose Monitoring System",
@@ -57,7 +57,7 @@
         "ManufacturedBy": "Abdul Diabetes Care Ltd.",
         "price": "15.99",
         "equipImage": "https://images.unsplash.com/photo-1599814516385-5eb0a11888d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpYWJldGVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "To examine sugar or glucose level of blood",
+        "use": "To examine sugar or glucose level of blood"
     },
     {
         "name": "Circular Surgical Stapler",
@@ -67,6 +67,6 @@
         "ManufacturedBy": "GObind Diagonist.",
         "price": "15.99",
         "equipImage": "https://images.unsplash.com/photo-1619901399360-9c8a7d4e68ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VyZ2ljYWwlMjBzdGFwbGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-        "use": "Mainly applicable to end to end, end to side, side to side anastomosis in digestive tract reconstructive surgery of esophagus,stomach and intestines. ",
+        "use": "Mainly applicable to end to end, end to side, side to side anastomosis in digestive tract reconstructive surgery of esophagus,stomach and intestines. "
     }
 ]
